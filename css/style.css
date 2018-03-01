@@ -1,0 +1,13 @@
+#app,
+#app2,
+#app3,
+#app4 {
+    font-size: 30px;
+    background-color: rgb(173, 219, 208);
+    padding: 20px;
+    width: 110px;
+    font-family: 'Lobster', cursive;
+    border-radius: 40px;
+    margin-top: 20px;
+    opacity: 0.6;
+}
